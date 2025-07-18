@@ -1109,35 +1109,35 @@ blockquote h6 {
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
     /*background-color: darken( var(--color-primary), 20% );
     border-color: darken( var(--color-primary), 20% );*/
-    background-color: #00c9ee;
-    border-color: #00c9ee;
+    background-color: #ff8c00;
+    border-color: #ff8c00;
     box-shadow: .125rem .1875rem .9375rem rgba(0, 0, 0, .3);
 }
 
 .btn-primary {
-    background-color: #00c9ee;
-    border-color: #00c9ee;
+    background-color: #ff8c00;
+    border-color: #ff8c00;
     color: #fff;
 }
 
 .btn-primary.disabled, .btn-primary:disabled {
-    background-color: rgb(0, 165, 194);
-    border-color: rgb(0, 165, 194);
+    background-color: #e67e00;
+    border-color: #e67e00;
 }
 
 .btn-primary:not(:disabled):not(.disabled):active:focus,
 .btn-primary:not(:disabled):not(.disabled).active:focus,
 .show > .btn-primary.dropdown-toggle:focus {
-    background-color: rgb(0, 165, 194);
-    border-color: rgb(0, 143, 168);
+    background-color: #e67e00;
+    border-color: #d35400;
     box-shadow: 0 .1875rem .9375rem rgba(0, 0, 0, .2);
 }
 
 .btn-primary:not(:disabled):not(.disabled):active,
 .btn-primary:not(:disabled):not(.disabled).active,
 .show > .btn-primary.dropdown-toggle {
-    background-color: rgb(0, 165, 194);
-    border-color: rgb(0, 165, 194);
+    background-color: #e67e00;
+    border-color: #e67e00;
     box-shadow: 0 .1875rem .9375rem rgba(0, 0, 0, .2);
 }
 
@@ -1147,19 +1147,19 @@ blockquote h6 {
 }
 
 .btn-outline-primary {
-    border-color: #00c9ee;
-    color: #00c9ee;
+    border-color: #ff8c00;
+    color: #ff8c00;
 }
 
 .btn-outline-primary:hover {
-    background-color: #00c9ee;
-    border-color: #00c9ee;
+    background-color: #ff8c00;
+    border-color: #ff8c00;
 }
 
 .btn-outline-primary:not(:disabled):not(.disabled):active:focus {
-    background-color: #00c9ee;
-    border-color: #00c9ee;
-    box-shadow: 0 0 0 .2rem rgba(0, 201, 238, .5);
+    background-color: #ff8c00;
+    border-color: #ff8c00;
+    box-shadow: 0 0 0 .2rem rgba(255, 140, 0, .5);
 }
 
 .btn-lg {
